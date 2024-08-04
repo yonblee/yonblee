@@ -1,0 +1,21 @@
+body {
+    margin: 0;
+    padding: 0;
+    width: 99.98vw;
+    height: 99.98vh;
+    background-color: black;
+    color: beige;
+    display: grid;
+    place-items: center;
+    place-content: center;
+}
+
+img {
+    width: 251px;
+    border-radius: 100%;
+}
+
+a {
+    padding: 2px;
+
+}
